@@ -33,6 +33,7 @@ Berdasarkan konsekuensinya, `False Negative` memiliki dampak yang lebih merugika
 
 - Dataset merupakan data Customer Telecomunication yang Churn.
 - Sumber dataset: [Link]([https://drive.google.com/drive/folders/1_fR7R0srpZgnFnanbrmELgnK-xmzMAHp)
+- [Link](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)
 
 **Data Description**
 
