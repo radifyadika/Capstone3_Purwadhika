@@ -32,7 +32,7 @@ Berdasarkan konsekuensinya, `False Negative` memiliki dampak yang lebih merugika
 # Data Source
 
 - Dataset merupakan data Customer Telecomunication yang Churn.
-- Sumber dataset: [Link]([https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data](https://drive.google.com/drive/folders/1_fR7R0srpZgnFnanbrmELgnK-xmzMAHp))
+- Sumber dataset: [Link]([https://drive.google.com/drive/folders/1_fR7R0srpZgnFnanbrmELgnK-xmzMAHp)
 
 **Data Description**
 
