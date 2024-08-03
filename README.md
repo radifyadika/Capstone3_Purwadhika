@@ -52,7 +52,7 @@ Berdasarkan konsekuensinya, `False Negative` memiliki dampak yang lebih merugika
 
 # Result
 
-Berdasarkan hasil cross-validation dengan `StratifiedKFold(n_splits=5)` dan 3 teknik Resampling (`RandomOverSampler`,`RandomUnderSampler`,`SMOTE`) 5 model klasifikasi, didapatkan model Logistic Regression menjadi model terpilih untuk dilakukan Hyperparameter Tuning dengan Recall tertinggi. Adapun hasil rata-rata Metrics Evaluation tiap modelnya pada **Data Training** adalah :
+Berdasarkan hasil cross-validation dengan `StratifiedKFold(n_splits=5)` dan 3 teknik Resampling (`RandomOverSampler`,`RandomUnderSampler`,`SMOTE`) 5 model klasifikasi, didapatkan model **Logistic Regression** menjadi model terpilih untuk dilakukan Hyperparameter Tuning dengan Recall tertinggi. Adapun hasil rata-rata Metrics Evaluation tiap modelnya pada **Data Training** adalah :
 
 | Model | Resample | Accuracy | Precision | Recall | F1 |
 | --- | --- | --- | --- | --- | --- |
